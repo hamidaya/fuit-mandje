@@ -1,0 +1,12 @@
+
+.button {
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: deeppink;
+    border-radius: 25px;
+    color: rgb(16, 0, 54);
+    border: 3px solid rgb(16, 0, 4);
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+
+}
