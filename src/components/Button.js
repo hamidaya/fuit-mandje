@@ -2,8 +2,13 @@ import React from 'react';
 
 function Button(props) {
     return (
-        <button>Reset</button>
+        <button>            +</button>
+
+
     );
 }
 
 export default Button;
+
+
+// https://www.robinwieruch.de/react-button/
